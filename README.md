@@ -12,5 +12,5 @@
 <h4>3. Open Terminal</h4>
 <h4>4. Change directory (cd) in to cloned code repository</h4>
 <h4>5. Change directory along following path: "../main/src/"</h4>
-<h4>6. Launch jupyter notebook code from top directory by typing in terminal "jupyter notebook Machine\ Learning\ for\ Music\ Genre\ Classification.ipynb"</h4>
+<h4>6. Launch jupyter notebook codeby typing in terminal "jupyter notebook Machine\ Learning\ for\ Music\ Genre\ Classification.ipynb"</h4>
 <h4>7. Follow additional instructions within the Jupyter Notebook for necessary imports if you wish to run code segments locally</h4>
