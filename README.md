@@ -14,3 +14,6 @@
 <h4>5. Change directory along following path: "../main/src/"</h4>
 <h4>6. Launch jupyter notebook codeby typing in terminal "jupyter notebook Machine\ Learning\ for\ Music\ Genre\ Classification.ipynb"</h4>
 <h4>7. Follow additional instructions within the Jupyter Notebook for necessary imports if you wish to run code segments locally</h4>
+
+<br><br>
+<h4>Enjoy!</h4>
